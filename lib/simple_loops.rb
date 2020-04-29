@@ -9,5 +9,6 @@ def loop_message_n_times(string,n)
   count = 0
   while count <= n do
     puts string
+    count +=1
   end
 end
